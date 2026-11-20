@@ -1,4 +1,4 @@
-# Case SOC-002 — Linux Authentication Event Analysis
+# Case SOC-001 — Linux Authentication Event Analysis
 
 **Date:** 20 November 2026  
 **System:** dansom-VirtualBox  
